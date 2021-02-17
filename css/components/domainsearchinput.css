@@ -1,0 +1,14 @@
+.domainsearchinput {
+  background-color: white;
+  padding: 15px 480px 15px 20px;
+  border-radius: 4px;
+  font-family: 'andika', sans-serif;
+  border-color: #fadcda;
+  font-size: 20px;
+  color: rgb(90,90,90);
+  transition: border-color 0.3s ease;
+}
+
+.domainsearchinput:hover {
+  border-color: #dc6070;
+}
